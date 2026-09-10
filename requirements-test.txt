@@ -1,0 +1,6 @@
+# Test runner only; not the app runtime lock.
+numpy==2.3.5
+pypdf==6.10.0
+python-docx==1.2.0
+streamlit==1.63.0
+python-dotenv==1.2.3
